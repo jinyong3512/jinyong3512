@@ -1,8 +1,12 @@
-<h2 align="center">👨‍💻 Portfolio & 📝 Tech Blog</h2>
+<h2 align="center">👨‍💻 Portfolio</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <a href="https://jinyong3512.notion.site">
     <img src="https://img.shields.io/static/v1?label=Click%20Here&message=Visit%20My%20Portfolio&color=66FF66&style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge" style="width: 450px; height: 50px;" />
   </a>
+</div>
+
+<h2 align="center">📝 Tech Blog</h2>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <a href="https://jinyong3512.tistory.com">
     <img src="https://img.shields.io/static/v1?label=Click%20Here&message=Visit%20My%20Tech%20Blog&color=006400&style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge" style="width: 450px; height: 50px;" />
   </a>
