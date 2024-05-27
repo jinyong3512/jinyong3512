@@ -23,9 +23,9 @@
 - [2021] [수강신청 보조 서비스](https://github.com/jinyong3512/sejong-university-course-registration-auto)
 - [2021] [학교 공지사항 이메일 알림 서비스](https://github.com/Smart-Notice-Bot/Smart.Notice.Bot)
 
-  <h2 align="center">🏆 Solved.ac</h2>
-  <div align="center">
-    <a href="https://solved.ac/wlsdyd4">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdyd4" alt="Solved.ac Badge"/>
-    </a>
-  </div>
+<h2 align="center">🏆 Solved.ac</h2>
+<div align="center">
+  <a href="https://solved.ac/wlsdyd4">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdyd4" alt="Solved.ac Badge"/>
+  </a>
+</div>
