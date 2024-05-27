@@ -1,12 +1,14 @@
-<h2 align="center">👨‍💻 My Portfolio</h2>
+<h2 align="center">👨‍💻 Portfolio</h2>
 
 <div align="center">
   <a href="https://jinyong3512.notion.site">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-blue?style=for-the-badge&logo=Notion&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Notion&color=green&style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge"
+    width="350" height="100"
+    />
   </a>
 </div>
 
-<h2 align="center">🏆 Solved.ac Profile</h2>
+<h2 align="center">🏆 Solved.ac</h2>
 
 <div align="center">
   <a href="https://solved.ac/wlsdyd4">
