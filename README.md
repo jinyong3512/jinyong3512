@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://jinyong3512.notion.site">
     <img src="https://img.shields.io/static/v1?label=Click%20Here&message=Visit%20My%20Portfolio&color=66FF66&style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge"
-    width="500" height="75"
+    width="450" height="50"
     />
   </a>
 </div>
@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://jinyong3512.tistory.com">
     <img src="https://img.shields.io/static/v1?label=Click%20Here&message=Visit%20My%20Tech%20Blog&color=006400&style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"
-    width="500" height="75"
+    width="450" height="50"
     />
   </a>
 </div>
