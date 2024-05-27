@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://jinyong3512.notion.site">
     <img src="https://img.shields.io/static/v1?label=Portfolio&message=Notion&color=green&style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge"
-    width="350" height="100"
+    width="350" height="75"
     />
   </a>
 </div>
