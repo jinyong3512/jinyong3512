@@ -16,8 +16,8 @@
 
 ### 삼성 청년 SW 아카데미
 
-- [2024] [삼성SDS 팀별 민감 데이터 공유 서비스](https://github.com/ssafy-10th-s101-team/PASDS-WORLD)
-- [2024] [롤 빅데이터 기반 추천 서비스](https://github.com/ssafy-10th-a605-team/garenGG)
+- [2024] [팀별 민감 데이터 관리 서비스](https://github.com/ssafy-10th-s101-team/PASDS-WORLD)
+- [2024] [리그오브레전드 빅데이터 기반 추천 서비스](https://github.com/ssafy-10th-a605-team/garenGG)
 - [2024] [산책 기록 및 공유 소모임 서비스](https://github.com/ssafy-10th-a808-team/walky-talky)
 - [2023] [사용자 로그인 보안 탐구 프로젝트](https://github.com/jinyong3512/ssafy-10th-jy-trip)
 
