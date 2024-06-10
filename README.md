@@ -1,39 +1,15 @@
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
-  }
-  .container div {
-    text-align: center;
-  }
-  .badge {
-    width: 300px;
-    height: 40px;
-    border-radius: 5px;
-    text-decoration: none;
-  }
-  .badge img {
-    display: block;
-    margin: auto;
-  }
-</style>
+<h2 align="center">👨‍💻 Portfolio</h2>
+<div align="center">
+<a href="https://jinyong3512.notion.site">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="border-radius: 8px;">
+</a>
+</div>
 
-<div class="container">
-  <div>
-    <h2>👨‍💻 Portfolio</h2>
-    <a href="https://jinyong3512.notion.site" target="_blank" class="badge">
-      <img src="https://img.shields.io/static/v1?label=Portfolio&message=%20&color=4CAF50&style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge" />
-    </a>
-  </div>
-
-  <div>
-    <h2>📝 Tech Blog</h2>
-    <a href="https://jinyong3512.tistory.com" target="_blank" class="badge">
-      <img src="https://img.shields.io/static/v1?label=Tech%20Blog&message=%20&color=008080&style=for-the-badge&logo=tistory&logoColor=white" alt="Tech Blog Badge" />
-    </a>
-  </div>
+<h2 align="center">📝 Blog</h2>
+<div align="center">
+  <a href="https://jinyong3512.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-FF7100?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" style="border-radius: 8px;">
+  </a>
 </div>
 
 
