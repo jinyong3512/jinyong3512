@@ -1,14 +1,14 @@
 <h2 align="center">👨‍💻 Portfolio</h2>
 <div align="center">
 <a href="https://jinyong3512.notion.site">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="width: 250px; height: 50px; border-radius: 8px;">
 </a>
 </div>
 
 <h2 align="center">📝 Blog</h2>
 <div align="center">
   <a href="https://jinyong3512.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-FF7100?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" style="border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Tistory-FF7100?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" style="width: 250px; height: 50px; border-radius: 8px;">
   </a>
 </div>
 
