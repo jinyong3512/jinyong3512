@@ -1,17 +1,18 @@
-<h2 align="center">💻 Project</h2>
+<h2>💻 Project</h2>
 
 ### 삼성 청년 SW 아카데미
 
-- [2024] [팀별 민감 데이터 관리 서비스](https://github.com/ssafy-10th-s101-team/PASDS-WORLD)
-- [2024] [리그오브레전드 빅데이터 기반 추천 및 미니게임 서비스](https://github.com/ssafy-10th-a605-team/garenGG)
-- [2024] [산책 기록 및 공유 서비스](https://github.com/ssafy-10th-a808-team/walky-talky)
-- [2023] [사용자 로그인 보안 탐구 프로젝트](https://github.com/jinyong3512/ssafy-10th-jy-trip)
+- [RBAC 기반 팀별 민감 데이터 공유 서비스](https://github.com/ssafy-10th-s101-team/PASDS-WORLD) <sub><span style="color: gray;">(2024.04 ~ 2024.05)</span></sub>
+- [리그오브레전드 빅데이터 기반 추천 및 미니게임 서비스](https://github.com/ssafy-10th-a605-team/garenGG) <sub><span style="color: gray;">(2024.02 ~ 2024.04)</span></sub>
+- [산책 기록 및 공유 서비스](https://github.com/ssafy-10th-a808-team/walky-talky) <sub><span style="color: gray;">(2024.01 ~ 2024.02)</span></sub>
+- [사용자 인증 탐구 프로젝트](https://github.com/jinyong3512/ssafy-10th-jy-trip) <sub><span style="color: gray;">(2023.11 ~ 2023.11)</span></sub>
 
 ### 세종대학교
 
-- [2022] [농작물 병해충 AI 진단 서비스](https://github.com/jinyong3512/sejong-university-easy-farm)
-- [2021] [학교 수강신청 보조 서비스](https://github.com/jinyong3512/sejong-university-course-registration-auto)
-- [2021] [학교 공지사항 이메일 알림 서비스](https://github.com/Smart-Notice-Bot/Smart.Notice.Bot)
+- [농작물 병해충 AI 진단 서비스](https://github.com/jinyong3512/sejong-university-easy-farm) <sub><span style="color: gray;">(2022.09 ~ 2022.12)</span></sub>
+- [세종대학교 공지사항 이메일 알림 서비스](https://github.com/Smart-Notice-Bot/Smart.Notice.Bot) <sub><span style="color: gray;">(2021.11 ~ 2021.12)</span></sub>
+- [세종대학교 수강신청 보조 서비스](https://github.com/jinyong3512/sejong-university-course-registration-auto) <sub><span style="color: gray;">(2021.09 ~ 2023.06)</span></sub>
+
 
 <!--
 
